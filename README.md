@@ -5,7 +5,7 @@
 ## Credits
 Aidan - Providing the base jar for the initial remap\
 skidunion - Providing the old novoline jar to help create mappings for the new version\
-TEAM KHONSARI - Creating the mappings used for this project\
+TEAM KHONSARI - Creating the mappings used for this project
 
 ## NOTE
-This branch is NOT compilable! Visit the eclipse-ready branch for compiling the client yourself.
+This branch is NOT compilable! Visit the eclipse-ready branch to compile the client yourself.
