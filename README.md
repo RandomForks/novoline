@@ -1,2 +1,2 @@
-# novoline
-Based client.
+# novoline - ECLIPSE READY
+soonTM...
